@@ -55,7 +55,7 @@
                 let headline = document.getElementById("headline"),
                     content = document.getElementById("content");
 
-                headline.innerText = "It's our 4th year together!";
+                headline.innerText = "It's our 365 days together!";
                 content.style.display = "block";
 
                 clearInterval(x);
