@@ -1,2 +1,2 @@
 # event-countdown
-A simple anniversary countdown using JavaScript, HTML and CSS.
+A simple web based countdown implementation using JavaScript, HTML and CSS.
