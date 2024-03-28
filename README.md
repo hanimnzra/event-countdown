@@ -1,2 +1,2 @@
-# anniversary-countdown
+# event-countdown
 A simple anniversary countdown using JavaScript, HTML and CSS.
